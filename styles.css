@@ -9,7 +9,7 @@ body {
 .homepage-recipe-list-container {
     width: 600px;
     background-color: #FFBF69;
-    margin: 0 auto;
+    margin: 400px auto;
     border-width: 2px;
     border-style: dotted;
     box-sizing: border-box;
@@ -40,12 +40,12 @@ body {
     margin: 0 auto 20px;    
 }
 
-.recipepage-recipe-title {
+/* .recipepage-recipe-title {
     padding: 10px;
     text-align: center;
     color: #002500;
     font-size: 40px;
-}
+} */
 
 .recipepage-image {
     display: block;
@@ -57,6 +57,13 @@ body {
 em {
     color: #B7245C;
     font-weight: 600;
+}
+
+.recipepage-recipe-container h1 {
+    padding: 10px;
+    text-align: center;
+    color: #002500;
+    font-size: 40px;
 }
 
 .recipepage-recipe-container h2,
